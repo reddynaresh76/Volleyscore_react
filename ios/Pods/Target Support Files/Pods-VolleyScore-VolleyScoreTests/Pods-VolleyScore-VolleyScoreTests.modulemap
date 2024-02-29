@@ -1,0 +1,6 @@
+module Pods_VolleyScore_VolleyScoreTests {
+  umbrella header "Pods-VolleyScore-VolleyScoreTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
